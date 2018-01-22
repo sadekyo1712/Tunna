@@ -29,7 +29,7 @@ Tunna_Defaults ={
 Webserver_Defaults ={
 	#Default WebServer Settings
 	'hostname':"0.0.0.0",	#Change to localhost for local connection
-	'webServerPort':8000,
+	'webServerPort':10000,
 	'ssl':False,
 
 	# For Debug purposes
